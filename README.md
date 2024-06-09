@@ -42,7 +42,7 @@ change where it says SITE-KEY to the cloudflare KEY
 * there is 2 ways u can do this
 
 1. u can edit nginx.conf and add the 
-```access_by_lua_file /etc/nginx/conf.d/protection/protection.lua;``` 
+```access_by_lua_file /etc/nginx/conf.d/ddos-guardian-layer-7/protection.lua;``` 
 line below http {
 
 2. u can edit the files and add it below the location / {
