@@ -61,6 +61,9 @@ line
 ## Credits
 * Relational Hosting
 
+## Discord?
+https://discord.gg/bFpKWYRzVn | https://discord.gg/relationalhosting
+
 * Relational Throne
 
 ## Support?
